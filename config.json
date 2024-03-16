@@ -1,0 +1,14 @@
+{
+  "PREFIX": "!",
+  "TOKEN": "MTIxNzIxMjc0MDk1OTk5Mzk0OA.Ggv7PE.3ROaUSSls9TiuqIA6oy-f3hcbAvmUtIT0YWu44",
+  "OWNER_ID": "325151003911389186",
+  "CLIENT_ID": "1217212740959993948",
+  "GUILD_ID": "1182503904966103050", "1213677164327739412": "325150224811294732",
+  "NODES": [
+    {
+      "host": "lava.link",
+      "port": 80,
+      "password": "sngfamily"
+    }
+  ]
+}

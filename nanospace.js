@@ -23,7 +23,7 @@ class MainClient extends Client {
             ]
         });
 
-    if(!this.token) this.token = TOKEN;
+    if(!this.token) this.token = TOKEN || process.env.TOKEN
 
     process.on('unhandledRejection', error => console.log(error));
     process.on('uncaughtException', error => console.log(error));

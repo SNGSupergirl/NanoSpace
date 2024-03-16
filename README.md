@@ -1,3 +1,12 @@
+## 👋 THANKS TO TECH BOY GAMING
+   
+   Discord Server - https://discord.gg/SshdTkK8Gz
+  
+  Github - https://github.com/kabirsingh2004
+      
+  Repl - https://replit.com/@KabirJaipal
+  
+  Original Video - https://www.youtube.com/watch?v=ZdIA8EYr_3c
 ## 📑 Short Feature
 - [x] Music
 - [x] Custom Prefix

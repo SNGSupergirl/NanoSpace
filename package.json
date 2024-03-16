@@ -1,7 +1,7 @@
 {
-  "name": "nanospacex",
+  "name": "musicbot",
   "version": "4.8.0",
-  "description": "✈ Join Discord: https://discord.gg/4pk97A2 👌",
+  "description": "✈ Join Discord: https://discord.gg/PcUVWApWN3 👌",
   "main": "index.js",
   "dependencies": {
     "@discordjs/rest": "^0.2.0-canary.0",
@@ -19,7 +19,7 @@
     "youtube-sr": "^4.1.9"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "nanotect",
   "license": "ISC",
@@ -30,5 +30,8 @@
   "bugs": {
     "url": "https://github.com/Adivise/NanoSpace/issues"
   },
-  "homepage": "https://github.com/Adivise/NanoSpace#readme"
+  "homepage": "https://github.com/Adivise/NanoSpace#readme",
+  "devDependencies": {
+    "node": "^17.3.0"
+  }
 }
